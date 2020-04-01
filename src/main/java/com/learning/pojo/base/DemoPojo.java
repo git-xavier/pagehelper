@@ -6,4 +6,5 @@ package com.learning.pojo.base;
  * @since 1.0.0
  */
 public class DemoPojo {
+    private String name;
 }
