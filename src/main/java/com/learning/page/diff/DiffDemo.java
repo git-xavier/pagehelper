@@ -6,4 +6,5 @@ package com.learning.page.diff;
  * @since 1.0.0
  */
 public class DiffDemo {
+    private String name;
 }
