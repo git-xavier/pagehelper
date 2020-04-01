@@ -7,4 +7,5 @@ package com.learning.pojo.base;
  */
 public class CommonUtil {
     private String name;
+    private String type;
 }
